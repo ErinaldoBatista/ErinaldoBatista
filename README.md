@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.<br/>
 Sou um FullStack Developer :computer:
 
- :cyclone:  &nbsp; Estou focado em dominar  **Rocketseat**
+ :cyclone:  &nbsp; Em busca de **Job + Experiência**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/Back-end com Node e React
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS & JS + Back-end
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & React Native
