@@ -1,5 +1,6 @@
-### Hi there 👋
+### Olá, bem-vindo ao meu perfil. Me chamo Erinaldo Batista. 👋
 
+Sou um estudant
 <!--
 **ErinaldoBatista/ErinaldoBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
