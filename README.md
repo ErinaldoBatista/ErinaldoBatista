@@ -4,8 +4,8 @@
 Sou apaixonado por resolver problemas utilizando a programação.<br/>
 Sou um FullStack Developer :computer:
 
- :cyclone:  &nbsp; Em busca de **Job + Experiência**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/Back-end com Node e React
+ :cyclone:  &nbsp; Foco em **Mobile e Web**
+ <br/> :purple_heart: &nbsp; Todos os meus projetos estão disponíveis em https://github.com/ErinaldoBatista
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS & JS + Back-end
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & React Native
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, e seriados no Netflix
