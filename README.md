@@ -1,7 +1,7 @@
 # Erinaldo Batista
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado por resolver problemas utilizando a programação.<br/>
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
@@ -11,4 +11,4 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:eryybatista2016@gmail.com)
