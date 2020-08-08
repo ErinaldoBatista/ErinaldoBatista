@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.<br/>
-Sou um FullStack Developer :computer: 🖥️
+Sou um FullStack Developer :computer:
 
  :cyclone:  &nbsp; Foco em **Mobile e Web**
  <br/> :purple_heart: &nbsp; Todos os meus projetos estão disponíveis em https://github.com/ErinaldoBatista
