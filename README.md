@@ -11,4 +11,4 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-eryybatista2016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eryybatista2016@gmail.com)](mailto:eryybatista2016@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dev.erinaldobatista@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.erinaldobatista@gmail.com)](mailto:dev.erinaldobatista@gmail.com)
